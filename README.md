@@ -14,8 +14,6 @@
 
 ## Quick Start <a name = "getting_started"></a>
 
-What things you need to install the software and how to install them.
-
 ```
 ./build.sh
 ```
